@@ -49,15 +49,5 @@
 	
 	<properties>
 		<app.home>/opt/app/</app.home>
-	</properties>
-
-	<dependencies>
-		<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-core</artifactId>
-			<version>3.3.2.GA</version>
-			<type>jar</type>
-			<scope>compile</scope>
-		</dependency>
-	</dependencies>
+	</properties>	
 </project>
