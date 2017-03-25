@@ -17,13 +17,12 @@
 							<goal>rpm</goal>
 						</goals>
 					</execution>
-				</executions>
-				<needarch>true</needarch>
-				<release>beta<release>
+				</executions>				
 				<configuration>
 					<copyright>2010, NoBody</copyright>
 					<group>Development</group>
-					<description>Maven Recipe: RPM Package.</description>
+					<description>Maven Recipe: RPM Package.</description>					
+				        <release>0</release>
 					<mappings>
 						<mapping>
 							<directory>${app.home}/lib/</directory>
