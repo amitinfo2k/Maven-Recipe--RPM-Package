@@ -18,6 +18,8 @@
 						</goals>
 					</execution>
 				</executions>
+				<needarch>true</needarch>
+				<release>beta<release>
 				<configuration>
 					<copyright>2010, NoBody</copyright>
 					<group>Development</group>
